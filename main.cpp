@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-  cout<<"\nhello GIT\n"<<std:flush;
+  cout<<"\nhesllo GIT\n"<<std:flush;
   return 0;
  }

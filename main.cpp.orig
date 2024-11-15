@@ -3,6 +3,10 @@
 using namespace std;
 int main()
 {
+<<<<<<< HEAD
+  std::cout<<"\nhello GIT.\n"::flush;
+=======
   cout<<"\nhello GIT\n"<<std:flush;
+>>>>>>> hello-world-usingNamespaceStd
   return 0;
  }
